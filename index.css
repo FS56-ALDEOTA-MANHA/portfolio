@@ -2,6 +2,8 @@
 @import "tailwindcss";
 
 :root {
-  --font-inconsolata: "Inconsolata", sans-serif; 
   --color-red: #e3646e;
+  --gray-300: #292C34;
+  --gray-500: #C0C4CE;
+  
 }
